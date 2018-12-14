@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalogo>
+<Libro isbn="0-596-00128-2">
+   <titulo>Python y XML</titulo>
+   <fecha>Diciembre 2018</fecha>
+   <autor>Pepito Perez</autor>
+</Libro>
+<Libro isbn="0-486-33448-5">
+   <titulo>Programacion Avanzada</titulo>
+   <fecha>Octubre 2012</fecha>
+   <autor>Juan Garcia</autor>
+</Libro>
+<Libro isbn="1-499-11557-3">
+   <titulo>Programacion</titulo>
+   <fecha>Enero 2002</fecha>
+   <autor>Juan Garcia</autor>
+</Libro>
+<Libro isbn="1-777-55337-4">
+   <titulo>Programacion y Matematicas</titulo>
+   <fecha>Junio 2017</fecha>
+   <autor>Marco Castillo</autor>
+</libro>
+</catalogo>
